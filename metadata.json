@@ -1,0 +1,5 @@
+{
+  "name": "GreenInvoice---CO2-Emmision-Data-Calculator",
+  "description": "Intelligent Document Processing for Scope-3 carbon accounting using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
